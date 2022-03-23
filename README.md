@@ -1,4 +1,3 @@
 # wisielec_gra
-wisielec_gra
-
-wisielec_gra
+witam,
+Ja popełniełem (I comitted) wisielec_gra.
